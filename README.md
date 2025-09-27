@@ -1,8 +1,11 @@
 
 # Statistics and all Repo Website
 
-Welcome to my GitHub Pages website!  
+Welcome 
 
 ## About This Repo
-This repo contains my projects, codes, notes  and files.
+This page contains statistical codes, notes and files.
+##codes 
+
+
 
