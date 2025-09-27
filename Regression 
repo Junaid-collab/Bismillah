@@ -1,0 +1,12 @@
+weight<-c(40,50,60,70,80,90,70,50,60,120)
+name<-c( "jamal","kamal", "hasib", "rahim","korim","jobbar","ashik","sojib","hasan","naeem")
+data<-data.frame(name,weight)
+data
+summary(weight)
+var(weight)
+sd(weight)
+height<-c(155,156,162,164,170,180,190,149,159,161)
+data<-data.frame(name,weight, height)
+regression<-lm(weight~height,data=data)
+regression 
+summary(regression)
